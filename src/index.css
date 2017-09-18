@@ -1,0 +1,16 @@
+.grid--row {
+  border: solid 1px blue;
+  display: flex;
+  width: 500px;
+}
+
+.grid--cell {
+  border: solid 1px red;
+  flex: 1;
+}
+
+
+.grid--cell {
+  background: black;
+  color: white;
+}
